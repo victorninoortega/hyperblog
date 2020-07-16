@@ -42,6 +42,8 @@ body{
     background: #777;
     color: white;
     padding: 0.5em;
+    font-size: 20px;
+    text-transform: uppercase;
 }
 #post{
     background: white;
