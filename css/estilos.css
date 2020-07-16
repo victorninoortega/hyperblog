@@ -47,5 +47,10 @@ body{
 }
 #post{
     background: white;
-    color: gray;
+    color:black
+}
+#equipo{
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 1em;
 }
